@@ -1,11 +1,15 @@
----
-description: >-
-  Şirkət Parametrləri bölməsi şirkətin Glorri-də istifadə etdiyi əsas
-  konfiqurasiyaların idarə olunması üçün nəzərdə tutulub. Bu bölmədən şirkət
-  profili, vakansiyalara müraciət qaydaları, e-poçt paramet
----
+# Dashboard Overview
 
-# Şirkət Parametrləri
+Platformaya daxil olduqdan sonra əsas səhifədə **Dashboard** bölməsi ilə qarşılaşırsınız.
 
-**Keçid:** `Settings → Company → Şirkət parametrləri`
+Dashboard üzərindən sizə aid olan əsas məlumatları ümumi şəkildə izləyə bilərsiniz.
 
+Burada, məsələn:
+
+* sizə aid vakansiyalar;
+* namizəd müraciətlərinin sayı;
+* sizə təyin edilmiş tapşırıqlar;
+* müsahibələr;
+* təqvimdəki tədbirlər
+
+göstərilə bilər.
