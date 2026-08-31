@@ -1,7 +1,9 @@
 # Table of contents
 
-* [Dashboard Overview](README.md)
-  * [Müsahibələrin izlənilməsi](dashboard-overview/musahib-l-rin-izl-nilm-si.md)
-  * [Task Creation and Tracking](dashboard-overview/task-creation-and-tracking.md)
-  * [Calendar Features](dashboard-overview/calendar-features.md)
-  * [Notification System](dashboard-overview/notification-system.md)
+* [Jobs](README.md)
+  * [Vakansiyalar cədvəlinə baxış](jobs/vakansiyalar-c-dv-lin-baxis.md)
+  * [Vakansiyaların filtrlənməsi](jobs/vakansiyalarin-filtrl-nm-si.md)
+  * [Vakansiyaların seçilməsi və idarə edilməsi](jobs/vakansiyalarin-secilm-si-v-idar-edilm-si.md)
+  * [Vakansiya hesabatının yaradılması](jobs/vakansiya-hesabatinin-yaradilmasi.md)
+  * [Vakansiya arxivi](jobs/vakansiya-arxivi.md)
+  * [Namizədlər](jobs/namiz-dl-r.md)
